@@ -1,0 +1,789 @@
+fileFormatVersion: 2
+guid: f2196fbd32e7ae8468081c3475d1eb69
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -896875019462181822
+    second: NES - Punch-Out Mike Tysons Punch-Out - Little Mac_0
+  - first:
+      213: -1955707920120036862
+    second: NES - Punch-Out Mike Tysons Punch-Out - Little Mac_1
+  - first:
+      213: 7166252031934510989
+    second: NES - Punch-Out Mike Tysons Punch-Out - Little Mac_2
+  - first:
+      213: -8883341123686352946
+    second: NES - Punch-Out Mike Tysons Punch-Out - Little Mac_3
+  - first:
+      213: 8617186458281219066
+    second: NES - Punch-Out Mike Tysons Punch-Out - Little Mac_4
+  - first:
+      213: -3491172251297687943
+    second: NES - Punch-Out Mike Tysons Punch-Out - Little Mac_5
+  - first:
+      213: 4095331344540100464
+    second: NES - Punch-Out Mike Tysons Punch-Out - Little Mac_6
+  - first:
+      213: 3687159712806579470
+    second: NES - Punch-Out Mike Tysons Punch-Out - Little Mac_7
+  - first:
+      213: 1087942285108068388
+    second: NES - Punch-Out Mike Tysons Punch-Out - Little Mac_8
+  - first:
+      213: 8439639820427372776
+    second: NES - Punch-Out Mike Tysons Punch-Out - Little Mac_9
+  - first:
+      213: -7697330140243790380
+    second: NES - Punch-Out Mike Tysons Punch-Out - Little Mac_10
+  - first:
+      213: -8517227815975239576
+    second: NES - Punch-Out Mike Tysons Punch-Out - Little Mac_11
+  - first:
+      213: -2372682833675113229
+    second: NES - Punch-Out Mike Tysons Punch-Out - Little Mac_12
+  - first:
+      213: 686631942610250231
+    second: NES - Punch-Out Mike Tysons Punch-Out - Little Mac_13
+  - first:
+      213: 2589739906040525130
+    second: NES - Punch-Out Mike Tysons Punch-Out - Little Mac_14
+  - first:
+      213: -7412146150375579246
+    second: NES - Punch-Out Mike Tysons Punch-Out - Little Mac_15
+  - first:
+      213: -4330053386764186087
+    second: NES - Punch-Out Mike Tysons Punch-Out - Little Mac_16
+  - first:
+      213: -1994275578701163232
+    second: NES - Punch-Out Mike Tysons Punch-Out - Little Mac_17
+  - first:
+      213: 4900344736128835409
+    second: NES - Punch-Out Mike Tysons Punch-Out - Little Mac_18
+  - first:
+      213: 8161241224190389944
+    second: NES - Punch-Out Mike Tysons Punch-Out - Little Mac_19
+  - first:
+      213: -1234361250117764597
+    second: NES - Punch-Out Mike Tysons Punch-Out - Little Mac_20
+  - first:
+      213: 8681794995498135821
+    second: NES - Punch-Out Mike Tysons Punch-Out - Little Mac_21
+  - first:
+      213: -5587380926572454444
+    second: NES - Punch-Out Mike Tysons Punch-Out - Little Mac_22
+  - first:
+      213: 6756949321712112705
+    second: NES - Punch-Out Mike Tysons Punch-Out - Little Mac_23
+  - first:
+      213: 5852942598435908772
+    second: NES - Punch-Out Mike Tysons Punch-Out - Little Mac_24
+  - first:
+      213: -5075279572726997048
+    second: NES - Punch-Out Mike Tysons Punch-Out - Little Mac_25
+  - first:
+      213: -1083928796770853564
+    second: NES - Punch-Out Mike Tysons Punch-Out - Little Mac_26
+  - first:
+      213: 2086902324813736978
+    second: NES - Punch-Out Mike Tysons Punch-Out - Little Mac_27
+  - first:
+      213: -278850066879975325
+    second: NES - Punch-Out Mike Tysons Punch-Out - Little Mac_28
+  - first:
+      213: 4603395752748029876
+    second: NES - Punch-Out Mike Tysons Punch-Out - Little Mac_29
+  - first:
+      213: 7513547368086304681
+    second: NES - Punch-Out Mike Tysons Punch-Out - Little Mac_30
+  - first:
+      213: 3031634611434680478
+    second: NES - Punch-Out Mike Tysons Punch-Out - Little Mac_31
+  - first:
+      213: 8715725731961256172
+    second: NES - Punch-Out Mike Tysons Punch-Out - Little Mac_32
+  - first:
+      213: -8248211033568753680
+    second: NES - Punch-Out Mike Tysons Punch-Out - Little Mac_33
+  - first:
+      213: -5975314363933592634
+    second: NES - Punch-Out Mike Tysons Punch-Out - Little Mac_34
+  - first:
+      213: -470399990267781796
+    second: NES - Punch-Out Mike Tysons Punch-Out - Little Mac_35
+  - first:
+      213: 8520730911662507321
+    second: NES - Punch-Out Mike Tysons Punch-Out - Little Mac_45
+  - first:
+      213: 4944200160028139892
+    second: NES - Punch-Out Mike Tysons Punch-Out - Little Mac_46
+  - first:
+      213: -2099990677199483202
+    second: NES - Punch-Out Mike Tysons Punch-Out - Little Mac_47
+  - first:
+      213: -5939408699860376601
+    second: NES - Punch-Out Mike Tysons Punch-Out - Little Mac_48
+  - first:
+      213: 7319973652789216036
+    second: NES - Punch-Out Mike Tysons Punch-Out - Little Mac_49
+  - first:
+      213: -4882318133823196862
+    second: NES - Punch-Out Mike Tysons Punch-Out - Little Mac_50
+  - first:
+      213: -7506563875120599977
+    second: NES - Punch-Out Mike Tysons Punch-Out - Little Mac_51
+  - first:
+      213: 3788937590486359584
+    second: NES - Punch-Out Mike Tysons Punch-Out - Little Mac_52
+  - first:
+      213: -8990757952737733
+    second: NES - Punch-Out Mike Tysons Punch-Out - Little Mac_53
+  - first:
+      213: 7821057929495101240
+    second: NES - Punch-Out Mike Tysons Punch-Out - Little Mac_54
+  - first:
+      213: -1848214719885560645
+    second: NES - Punch-Out Mike Tysons Punch-Out - Little Mac_55
+  - first:
+      213: 4001956071145102344
+    second: NES - Punch-Out Mike Tysons Punch-Out - Little Mac_56
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 0
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: NES - Punch-Out Mike Tysons Punch-Out - Little Mac_0
+      rect:
+        serializedVersion: 2
+        x: 13
+        y: 1018
+        width: 26
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 24cf801fbe8ad83f0800000000000000
+      internalID: -896875019462181822
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Punch-Out Mike Tysons Punch-Out - Little Mac_1
+      rect:
+        serializedVersion: 2
+        x: 49
+        y: 1018
+        width: 24
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 202c3d8220eebd4e0800000000000000
+      internalID: -1955707920120036862
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Punch-Out Mike Tysons Punch-Out - Little Mac_2
+      rect:
+        serializedVersion: 2
+        x: 13
+        y: 947
+        width: 24
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d87b06e2144a37360800000000000000
+      internalID: 7166252031934510989
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Punch-Out Mike Tysons Punch-Out - Little Mac_3
+      rect:
+        serializedVersion: 2
+        x: 47
+        y: 947
+        width: 22
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ec73e00605808b480800000000000000
+      internalID: -8883341123686352946
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Punch-Out Mike Tysons Punch-Out - Little Mac_4
+      rect:
+        serializedVersion: 2
+        x: 79
+        y: 947
+        width: 24
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: af398219d65669770800000000000000
+      internalID: 8617186458281219066
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Punch-Out Mike Tysons Punch-Out - Little Mac_7
+      rect:
+        serializedVersion: 2
+        x: 90
+        y: 877
+        width: 25
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e0da7ff293c6b2330800000000000000
+      internalID: 3687159712806579470
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Punch-Out Mike Tysons Punch-Out - Little Mac_8
+      rect:
+        serializedVersion: 2
+        x: 13
+        y: 795
+        width: 28
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4204eff7eb5291f00800000000000000
+      internalID: 1087942285108068388
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Punch-Out Mike Tysons Punch-Out - Little Mac_9
+      rect:
+        serializedVersion: 2
+        x: 51
+        y: 795
+        width: 28
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8e8a0d893bf9f1570800000000000000
+      internalID: 8439639820427372776
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Punch-Out Mike Tysons Punch-Out - Little Mac_10
+      rect:
+        serializedVersion: 2
+        x: 90
+        y: 795
+        width: 23
+        height: 69
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4d57cd705079d2590800000000000000
+      internalID: -7697330140243790380
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Punch-Out Mike Tysons Punch-Out - Little Mac_11
+      rect:
+        serializedVersion: 2
+        x: 13
+        y: 703
+        width: 28
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 86048b57d6abcc980800000000000000
+      internalID: -8517227815975239576
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Punch-Out Mike Tysons Punch-Out - Little Mac_12
+      rect:
+        serializedVersion: 2
+        x: 50
+        y: 703
+        width: 23
+        height: 69
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3fca026a889821fd0800000000000000
+      internalID: -2372682833675113229
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Punch-Out Mike Tysons Punch-Out - Little Mac_13
+      rect:
+        serializedVersion: 2
+        x: 84
+        y: 703
+        width: 20
+        height: 81
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7f968b62d18678900800000000000000
+      internalID: 686631942610250231
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Punch-Out Mike Tysons Punch-Out - Little Mac_14
+      rect:
+        serializedVersion: 2
+        x: 13
+        y: 616
+        width: 24
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a41f23839ba90f320800000000000000
+      internalID: 2589739906040525130
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Punch-Out Mike Tysons Punch-Out - Little Mac_15
+      rect:
+        serializedVersion: 2
+        x: 47
+        y: 616
+        width: 24
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 291a593f854c22990800000000000000
+      internalID: -7412146150375579246
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Punch-Out Mike Tysons Punch-Out - Little Mac_16
+      rect:
+        serializedVersion: 2
+        x: 81
+        y: 616
+        width: 28
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 91e8177e26f88e3c0800000000000000
+      internalID: -4330053386764186087
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Punch-Out Mike Tysons Punch-Out - Little Mac_17
+      rect:
+        serializedVersion: 2
+        x: 118
+        y: 616
+        width: 23
+        height: 72
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 025d7436de8e254e0800000000000000
+      internalID: -1994275578701163232
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Punch-Out Mike Tysons Punch-Out - Little Mac_18
+      rect:
+        serializedVersion: 2
+        x: 152
+        y: 616
+        width: 31
+        height: 75
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 15f1ae90395810440800000000000000
+      internalID: 4900344736128835409
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Punch-Out Mike Tysons Punch-Out - Little Mac_19
+      rect:
+        serializedVersion: 2
+        x: 195
+        y: 616
+        width: 26
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8be642e37ad824170800000000000000
+      internalID: 8161241224190389944
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Punch-Out Mike Tysons Punch-Out - Little Mac_20
+      rect:
+        serializedVersion: 2
+        x: 13
+        y: 539
+        width: 24
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b0a3932abfaaedee0800000000000000
+      internalID: -1234361250117764597
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Punch-Out Mike Tysons Punch-Out - Little Mac_21
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 539
+        width: 23
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d013e6fdc8eeb7870800000000000000
+      internalID: 8681794995498135821
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Punch-Out Mike Tysons Punch-Out - Little Mac_22
+      rect:
+        serializedVersion: 2
+        x: 13
+        y: 465
+        width: 28
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4dd1bd686a2a572b0800000000000000
+      internalID: -5587380926572454444
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Punch-Out Mike Tysons Punch-Out - Little Mac_23
+      rect:
+        serializedVersion: 2
+        x: 51
+        y: 465
+        width: 26
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 14497f5bb9185cd50800000000000000
+      internalID: 6756949321712112705
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Punch-Out Mike Tysons Punch-Out - Little Mac_24
+      rect:
+        serializedVersion: 2
+        x: 92
+        y: 465
+        width: 30
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4ac26867844d93150800000000000000
+      internalID: 5852942598435908772
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Punch-Out Mike Tysons Punch-Out - Little Mac_26
+      rect:
+        serializedVersion: 2
+        x: 13
+        y: 381
+        width: 24
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 44d18a2908c15f0f0800000000000000
+      internalID: -1083928796770853564
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Punch-Out Mike Tysons Punch-Out - Little Mac_27
+      rect:
+        serializedVersion: 2
+        x: 47
+        y: 381
+        width: 24
+        height: 71
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 21ca5778b9a26fc10800000000000000
+      internalID: 2086902324813736978
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
